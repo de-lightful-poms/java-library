@@ -6,7 +6,7 @@
   <parent>
     <groupId>de.lightful.poms</groupId>
     <artifactId>standard-plugins</artifactId>
-    <version>6</version>
+    <version>7</version>
   </parent>
 
   <groupId>de.lightful.poms</groupId>
@@ -14,7 +14,7 @@
   <version>2-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <name>de.lightful :: POMs :: Standard Plugin Management</name>
+  <name>de.lightful :: POMs :: Java Library</name>
 
   <scm>
     <connection>scm:git:git@github.com:de-lightful-poms/java-library.git</connection>
