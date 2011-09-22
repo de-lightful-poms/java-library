@@ -10,7 +10,7 @@
 
   <groupId>de.lightful.poms</groupId>
   <artifactId>java-library</artifactId>
-  <version>5</version>
+  <version>6-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>de.lightful :: POMs :: Java Library</name>
