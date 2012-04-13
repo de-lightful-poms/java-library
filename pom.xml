@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2011 Ansgar Konermann
+  ~ Copyright (c) 2011-2012 Ansgar Konermann
   ~
   ~ This file is part of the "de.lightful Maven Parent POMs" Package.
   ~
@@ -22,7 +22,7 @@
   <parent>
     <groupId>de.lightful.poms</groupId>
     <artifactId>standard-oss-build</artifactId>
-    <version>1</version>
+    <version>2</version>
   </parent>
 
   <groupId>de.lightful.poms</groupId>
